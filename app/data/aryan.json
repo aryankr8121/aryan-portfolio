@@ -1,0 +1,56 @@
+{
+  "name": "Aryan",
+  "role": "Automation Engineer – AI/Embedded Systems",
+  "location": "Mysore, Karnataka, India",
+  "email": "aryankr8121@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/aryan-477aa9201/",
+  "github": "https://github.com/aryankr8121",
+  "summary": "Automation Engineer with 2+ years of experience in the automotive domain, specializing in AI-driven automation, defect management, and infotainment debugging. Skilled in Python, C++, and Embedded C with expertise in AI/ML frameworks like PyTorch and TensorFlow.",
+  "skills": {
+    "Programming Languages": ["Python", "C++", "Embedded C"],
+    "AI/ML": ["PyTorch", "TensorFlow", "Scikit-learn", "Sentence-BERT", "Vector Databases"],
+    "Automation": ["Python Scripting", "Test Automation", "Jira Tooling"],
+    "Frameworks": ["REST API", "AUTOSAR"],
+    "Tools": ["Git", "Jira", "Octane", "CAN", "UDS"],
+    "Other": ["Data Structures", "Root Cause Analysis", "Fishbone Analysis Tool Development"]
+  },
+  "experience": [
+    {
+      "company": "L&T Technology Services (BMW Ecosystem)",
+      "role": "Automation Engineer – Automotive Domain",
+      "duration": "Nov 2023 – Present",
+      "details": [
+        "Performed root cause analysis of infotainment stability issues in AUTOSAR Node0, diagnosing memory leaks, watchdog resets, and task overruns at the BSW/OS layer.",
+        "Automated repetitive workflows using Python scripting, improving debugging efficiency.",
+        "Developed Fishbone-based root cause analysis functionality for defect diagnosis.",
+        "Built an AI automation for duplicate Jira defect detection using Sentence-BERT and cosine similarity, reducing redundancy."
+      ]
+    },
+    {
+      "company": "S7 Works",
+      "role": "Frontend Developer",
+      "duration": "Jun 2023 – Nov 2023",
+      "details": [
+        "Developed responsive web apps using React.js and Tailwind CSS.",
+        "Integrated REST APIs into dashboards for real-time data visualization."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Tech in Electronics and Communication Engineering",
+    "college": "Silicon Institute of Technology, Bhubaneswar",
+    "year": "2019 – 2023"
+  },
+  "projects": [
+    {
+      "name": "Multi-Document Summarization & Comparison Tool",
+      "stack": "Python, NLP, Transformers",
+      "description": "Built a text summarization and comparison tool using transformer-based NLP models to analyze multiple documents and detect semantic overlap."
+    },
+    {
+      "name": "AI-Powered Jira Duplicate Detection",
+      "stack": "PyTorch, Sentence-BERT",
+      "description": "Developed a machine learning pipeline to detect duplicate Jira tickets using embeddings and cosine similarity."
+    }
+  ]
+}
